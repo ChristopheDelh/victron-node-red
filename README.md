@@ -1,5 +1,10 @@
 # Node-Red flows for Managing Boat Batteries
 
+![image](https://github.com/ChristopheDelh/victron-node-red/assets/33634347/96a3bbb3-1e58-4c26-a8e9-9a2f2c32abf1)
+![image](https://github.com/ChristopheDelh/victron-node-red/assets/33634347/f2515504-4a9f-46e8-a49d-e087ac22b0d5)
+![image](https://github.com/ChristopheDelh/victron-node-red/assets/33634347/02ff5eb1-789f-4cfd-9400-7c7ad5438137)
+
+
 This set of flows manages balancing and charging of batteries controlled
 by a Victron BMS.
 
